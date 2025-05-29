@@ -1,3 +1,3 @@
 # JeffPino33.github.io
 
-Mi paguna de prueba
+Mi página de prueba
